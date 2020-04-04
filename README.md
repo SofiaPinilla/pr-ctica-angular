@@ -1,3 +1,18 @@
+# Práctica de Angular
+El proyecto consiste en una página sencilla hecha con Angular.
+
+## Tecnologías que he utilizado 🛠️
+
+>Mi pryecto esta creado con Angular(HTML5 , CSS3,Layout( Flex ),Bootstrap, Responsive Design).
+
+ ---
+ 
+#### Preview
+
+![foto](src/assets/images/registro.png) 
+
+ ---
+ 
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
