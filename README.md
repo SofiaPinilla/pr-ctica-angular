@@ -3,7 +3,7 @@ El proyecto consiste en una página sencilla hecha con Angular.
 
 ## Tecnologías que he utilizado 🛠️
 
->Mi pryecto esta creado con Angular(HTML5 , CSS3,Layout( Flex ),Bootstrap, Responsive Design).
+>Mi proyecto esta creado con Angular(HTML5 , CSS3,Layout( Flex ),Bootstrap, Responsive Design).
 
  ---
  
